@@ -42,7 +42,7 @@ export const Projects = () => {
 
     return (
         <section id="project">
-            <div className="container">
+            <div className="container-lg">
                     <div className="textProject">
                         <h2>Projects</h2>
                         

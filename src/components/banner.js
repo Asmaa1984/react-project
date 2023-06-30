@@ -29,7 +29,7 @@ export const Banner= ()=>{
         
         
     return (
-        <div id="home" className="banner bg-info">
+        <div id="home" className="banner">
 
             <div className="container-lg ">
                 <div className="row">

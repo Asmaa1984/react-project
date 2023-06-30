@@ -7,7 +7,7 @@ export const Contact = () => {
 
   return (
     <section className="w-100 " id="connect">
-        <div className="container ">
+        <div className="container-lg">
           <TrackVisibility>
           {({isVisible})=>
             <div className="row mt-auto">

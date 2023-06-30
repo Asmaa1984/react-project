@@ -31,7 +31,7 @@ export const Banner= ()=>{
     return (
         <div id="home" className="banner bg-info">
 
-            <div className="container ">
+            <div className="container-lg ">
                 <div className="row">
                     <div className="part1 col-md-7 col-sm-12">
                     <TrackVisibility>

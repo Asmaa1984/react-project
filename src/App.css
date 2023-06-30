@@ -67,7 +67,7 @@
     outline: none;
   }
   @media (min-width:1700px) {
-	main .container {
+	main .container-lg {
 		max-width: 100%;
 		padding: 0 150px;
 	}
